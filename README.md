@@ -2,8 +2,7 @@
 
 This repo contains some basic routines to fetch, process and plot ASDEX-Upgrade (AUG) data. It is designed to support data analysis and modeling as part of the EuroFusion WPTE RT07 (negative triangularity) activity, but may be also useful to others.
 
-.. image:: aug_nt_overview_40470.png
-    :scale: 80 %
+![AUG shot #40470, t=4s](aug_nt_overview_40470.png?raw=true "AUG shot #40470, t=4s")
 
 All routines are in Python3+ and assume that the user already has access to the AUG data systems. Please contact C. Fuchs if you do not already have access.
 
